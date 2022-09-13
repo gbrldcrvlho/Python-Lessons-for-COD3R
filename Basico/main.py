@@ -45,4 +45,3 @@
 # print(resultado)
 
 # from funcoes import funcional
-import funcoes.map_reduce
